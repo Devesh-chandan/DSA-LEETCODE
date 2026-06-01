@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Math
 |  |
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
