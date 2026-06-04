@@ -15,6 +15,7 @@
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
