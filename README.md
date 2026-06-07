@@ -9,6 +9,7 @@
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -22,6 +23,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
@@ -66,4 +68,12 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
