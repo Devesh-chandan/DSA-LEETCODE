@@ -9,6 +9,7 @@
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
