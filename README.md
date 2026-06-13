@@ -18,6 +18,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3838-weighted-word-mapping](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Segment Tree
 |  |
 | ------- |
