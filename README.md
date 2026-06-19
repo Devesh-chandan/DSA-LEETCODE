@@ -7,6 +7,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [1732-find-the-highest-altitude](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -84,6 +85,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
