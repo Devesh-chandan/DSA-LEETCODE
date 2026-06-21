@@ -4,11 +4,11 @@ class Solution {
         int sum=0;
         Arrays.sort(costs);
         
-        for(int i=0;i<costs.length;i++){
+        for(int cost :costs){
             
-            if(costs[i]<=coins){
+            if(cost<=coins){
                
-                coins=coins-costs[i];
+                coins=coins-cost;
                 count++;
                 
             }
