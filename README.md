@@ -35,11 +35,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
@@ -139,5 +141,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
