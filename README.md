@@ -240,4 +240,8 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
