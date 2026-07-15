@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0050-powx-n) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -247,4 +248,8 @@
 | [0595-big-countries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
