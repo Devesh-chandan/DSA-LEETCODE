@@ -34,6 +34,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +105,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +158,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -243,6 +248,7 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
