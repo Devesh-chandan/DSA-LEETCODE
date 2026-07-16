@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
