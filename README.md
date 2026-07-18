@@ -9,6 +9,7 @@
 | [0041-first-missing-positive](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [0137-single-number-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -201,6 +202,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0260-single-number-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
