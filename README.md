@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0137-single-number-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0189-rotate-array) |
@@ -68,6 +69,7 @@
 | [0001-two-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -83,6 +85,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -108,6 +111,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
