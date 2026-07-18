@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -79,6 +80,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -174,6 +176,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3612-process-string-with-special-operations-i) |
