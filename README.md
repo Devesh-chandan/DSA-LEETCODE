@@ -87,6 +87,7 @@
 | [0043-multiply-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -224,6 +226,7 @@
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -302,4 +305,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
