@@ -19,7 +19,12 @@ class Solution {
             List<Integer> list=new ArrayList<>();
 
             for(int j=0;j<n;j++){
-                int idx=((idn-k)%size+size)%size;
+                k = k % size;
+                 int idx = idn - k;
+
+        if (idx < 0) {
+            idx += size;
+        }
                 int val=temp[idx];
                 list.add(val);
                 idn++;
