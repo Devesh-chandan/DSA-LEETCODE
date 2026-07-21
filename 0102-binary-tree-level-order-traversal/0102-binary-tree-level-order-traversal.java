@@ -35,7 +35,7 @@ class Solution {
                     q.offer(node.left);
                 }
                 if(node.right!=null){
-                    q.add(node.right);
+                    q.offer(node.right);
                 }
             }
             res.add(level);
