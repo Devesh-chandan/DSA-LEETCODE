@@ -177,6 +177,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
@@ -212,6 +214,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -258,6 +261,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
