@@ -26,14 +26,14 @@ class Solution {
         while(!q.isEmpty()){
             int size=q.size();
            
-            List<Integer> level=new ArrayList<>();
+            LinkedList<Integer> level=new LinkedList<>();
             for(int i=0;i<size;i++){
                  TreeNode node=q.poll();
             if(flag){
-                level.add(node.val);
+                level.addLast(node.val);
 
             }else{
-                level.add(0,node.val);
+                level.addFirst(node.val);
             }
              if(node.left!=null){
                 q.offer(node.left);
