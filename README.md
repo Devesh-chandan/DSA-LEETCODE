@@ -10,6 +10,7 @@
 | [0045-jump-game-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
+| [0088-merge-sorted-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -132,6 +134,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
