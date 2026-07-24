@@ -32,6 +32,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2615-sum-of-distances) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -59,6 +60,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -113,6 +115,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -329,6 +332,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
