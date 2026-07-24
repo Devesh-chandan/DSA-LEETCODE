@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
@@ -127,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
@@ -143,6 +145,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
