@@ -84,6 +84,7 @@
 | [0041-first-missing-positive](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -135,6 +136,7 @@
 | [0088-merge-sorted-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0853-car-fleet](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0853-car-fleet) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
@@ -212,6 +214,7 @@
 | [0110-balanced-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -225,6 +228,7 @@
 | [0110-balanced-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
@@ -261,6 +265,7 @@
 | [0110-balanced-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -313,6 +318,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
