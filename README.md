@@ -76,6 +76,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
@@ -214,6 +215,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3751-total-waviness-of-numbers-in-range-i) |
