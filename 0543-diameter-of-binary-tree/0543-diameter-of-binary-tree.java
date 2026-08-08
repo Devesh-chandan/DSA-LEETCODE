@@ -41,25 +41,49 @@
 // }
 
 // Optimal approach O(N)
+// class Solution {
+
+//     int maxi = 0;
+
+//     public int diameterOfBinaryTree(TreeNode root) {
+//         ht(root);
+//         return maxi;
+//     }
+
+//     public int ht(TreeNode root) {
+//         if (root == null) {
+//             return 0;
+//         }
+
+//         int lh = ht(root.left);
+//         int rh = ht(root.right);
+
+//         maxi = Math.max(maxi, lh + rh);
+
+//         return 1 + Math.max(lh, rh);
+//     }
+// }
+
 class Solution {
-
-    int maxi = 0;
-
     public int diameterOfBinaryTree(TreeNode root) {
-        ht(root);
-        return maxi;
-    }
-
-    public int ht(TreeNode root) {
-        if (root == null) {
+        if(root==null){
             return 0;
         }
+        int leftht=ht(root.left);
+        int rightht=ht(root.right);
 
-        int lh = ht(root.left);
-        int rh = ht(root.right);
+        int leftdia=diameterOfBinaryTree(root.left);
+        int rightdia=diameterOfBinaryTree(root.right);
+        return Math.max(leftht+rightht,Math.max(leftdia,rightdia));
 
-        maxi = Math.max(maxi, lh + rh);
+    }
+    public int ht(TreeNode root){
+        if(root==null){
+            return 0;
 
-        return 1 + Math.max(lh, rh);
+        }
+        int left=ht(root.left);
+        int right=ht(root.right);
+        return 1+Math.max(left,right);
     }
 }
