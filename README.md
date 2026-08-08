@@ -438,4 +438,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
