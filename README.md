@@ -69,6 +69,7 @@
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
@@ -205,6 +206,7 @@
 | [0486-predict-the-winner](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -434,17 +436,28 @@
 | [0486-predict-the-winner](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
