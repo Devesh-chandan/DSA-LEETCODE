@@ -38,6 +38,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2615-sum-of-distances) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -102,6 +103,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2615-sum-of-distances](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2615-sum-of-distances) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -359,6 +361,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
