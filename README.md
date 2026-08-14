@@ -262,6 +262,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2236-root-equals-sum-of-children) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -280,6 +281,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2236-root-equals-sum-of-children) |
 ## Simulation
 |  |
 | ------- |
