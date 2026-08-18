@@ -48,6 +48,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -114,6 +115,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
