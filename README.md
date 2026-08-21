@@ -46,6 +46,7 @@
 | [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -83,6 +84,7 @@
 | [2029-stone-game-ix](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -210,6 +212,7 @@
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -343,6 +346,7 @@
 | [0137-single-number-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -436,6 +440,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -455,6 +460,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Stack
