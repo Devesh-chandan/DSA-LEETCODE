@@ -8,69 +8,63 @@
  * }
  */
 class Solution {
-    public void make_parent(TreeNode root, Map<TreeNode, TreeNode> parent_track, TreeNode target) {
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while (!q.isEmpty()) {
-            TreeNode curr = q.poll();
-            if (curr.left != null) {
-                parent_track.put(curr.left, curr);
-                q.offer(curr.left);
-
-            }
-            if (curr.right != null) {
-                parent_track.put(curr.right, curr);
-                q.offer(curr.right);
-
-            }
-        }
-    }
-
-    public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
-       
-       
-        Map<TreeNode,TreeNode>parent_track=new HashMap<>();
-        make_parent(root,parent_track,target);
-
-        Map<TreeNode,Boolean>visited=new HashMap<>();
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(target);
-        visited.put(target,true);
-
-
-        int distance = 0;
-
+    public void make(TreeNode root,Map<TreeNode,TreeNode>parent,TreeNode target){
+        Queue<TreeNode>q=new LinkedList<>();
+        q.offer(root);
         while(!q.isEmpty()){
-            
+            TreeNode curr=q.poll();
+            if(curr.left!=null){
+                parent.put(curr.left,curr);
+                q.offer(curr.left);
+                
+            }  
+             if(curr.right!=null){
+                parent.put(curr.right,curr);
+                q.offer(curr.right);
+                
+            }              
+            }
+    }
+    public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
+         Queue<TreeNode>q=new LinkedList<>();
+         Map<TreeNode,TreeNode>parent=new HashMap<>();
+         make(root,parent,target);
+         Map<TreeNode,Boolean>visited=new HashMap<>();
+         q.offer(target);
+         visited.put(target,true);
+         int distance=0;
+         while(!q.isEmpty()){
             int size=q.size();
             if(distance==k){
                 break;
-            }
+            }   
             distance++;
             for(int i=0;i<size;i++){
-            TreeNode curr=q.poll();
-            if(curr.left !=null && visited.get(curr.left)==null){
-                 q.offer(curr.left);
-                visited.put(curr.left,true);
-               
-            }
-            if(curr.right!=null && visited.get(curr.right)==null){
-                 q.offer(curr.right);
-                visited.put(curr.right,true);
-               
-            }
-            if(parent_track.get(curr)!=null && visited.get(parent_track.get(curr))==null){
-                q.offer(parent_track.get(curr));
-                visited.put(parent_track.get(curr),true);
+                TreeNode curr=q.poll();
+                if(curr.left!=null && visited.get(curr.left)==null){
+                    q.offer(curr.left);
+                    visited.put(curr.left,true);
+                }
+                 if(curr.right!=null && visited.get(curr.right)==null){
+                    q.offer(curr.right);
+                    visited.put(curr.right,true);
+                }
+                if(visited.get(parent.get(curr))==null && parent.get(curr)!=null ){
+                    q.offer(parent.get(curr));
+                    visited.put(parent.get(curr),true);
+                }
             }
 
-        }
-    }
-         ArrayList<Integer> list = new ArrayList<>();
+         }
+         ArrayList<Integer>list = new ArrayList<>();
+       
          while(!q.isEmpty()){
             TreeNode curr=q.poll();
-            list.add(curr.val);         }
-       
-        return list;
+            list.add(curr.val);
+            
+         }
+         return list;
+
+        
     }
 }
