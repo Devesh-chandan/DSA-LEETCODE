@@ -115,6 +115,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2615-sum-of-distances](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -284,6 +285,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -305,6 +307,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2236-root-equals-sum-of-children) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Simulation
 |  |
 | ------- |
@@ -347,6 +350,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -416,6 +420,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
