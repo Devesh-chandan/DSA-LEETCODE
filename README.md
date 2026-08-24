@@ -32,6 +32,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
@@ -80,6 +81,7 @@
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
@@ -236,6 +238,7 @@
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -260,6 +263,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -497,6 +501,7 @@
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -504,12 +509,14 @@
 | ------- |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
