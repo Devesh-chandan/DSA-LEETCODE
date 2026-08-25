@@ -75,6 +75,7 @@
 | [0043-multiply-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
@@ -139,6 +140,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
