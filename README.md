@@ -299,6 +299,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -324,6 +325,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -372,6 +374,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -404,6 +407,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0853-car-fleet](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
