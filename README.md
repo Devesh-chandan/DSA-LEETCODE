@@ -38,6 +38,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -181,6 +182,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
