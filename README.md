@@ -15,6 +15,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0260-single-number-iii) |
@@ -264,6 +265,7 @@
 | [0045-jump-game-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
