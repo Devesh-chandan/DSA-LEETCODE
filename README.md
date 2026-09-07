@@ -164,6 +164,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -277,6 +278,7 @@
 | [0152-maximum-product-subarray](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1872-stone-game-viii) |
