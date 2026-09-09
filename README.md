@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -634,4 +635,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
