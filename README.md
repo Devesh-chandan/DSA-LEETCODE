@@ -22,6 +22,7 @@
 | [0260-single-number-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0260-single-number-iii) |
 | [0486-predict-the-winner](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0835-image-overlap](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0905-sort-array-by-parity) |
@@ -532,6 +533,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
