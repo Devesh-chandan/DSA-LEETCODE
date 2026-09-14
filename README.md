@@ -93,6 +93,7 @@
 | [0412-fizz-buzz](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/1406-stone-game-iii) |
@@ -652,4 +653,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0046-permutations) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Devesh-chandan/DSA-LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
